@@ -21,4 +21,4 @@ With some of these articles being possible research topics.
 3. [Can Psychologists be helpful to game design?](https://www.reddit.com/r/gamedesign/comments/1aw1jlh/can_psychologists_be_helpful_to_game_design/)
 4. [Want To Be A Game Psychologist? What You Need to Know](https://www.nirandfar.com/understanding-the-psychology-behind-game-design/)
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danieltsai-RSheepDV/DH140Final/master)
