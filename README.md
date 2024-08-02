@@ -8,9 +8,9 @@ The article [The Era of the Indie Game](https://www.konvoy.vc/content/the-era-of
 
 ![Graph of Sales](https://i0.wp.com/quanticfoundry.com/wp-content/uploads/2018/01/steam_tags_med_res.png?resize=650%2C650&ssl=1)
 
-The above visualization shows the connection between different tags in Steam gamees, connections being formed when games have both tags at once. I want to be able to do the same though with additional seperation for indie vs AAA games and have the size of points be representative of different stats, such as revenue, ratings, and sales.
+The above visualization shows the connection between different tags in Steam games, connections being formed when games have both tags at once. I want to be able to do the same though with additional separation for indie vs AAA games and have the size of points be representative of different stats, such as revenue, ratings, and sales.
 
-The humanities topic I wanted to explore is Sociology, tracking the trends of the gaming community's setiment over time.
+The humanities topic I wanted to explore is Sociology, tracking the trends of the gaming community's sentiment over time.
 
 The following articles were used to determine possible research topics.
 1. [The Psychological Perspective on Game Design](https://www.gamedeveloper.com/design/the-psychological-perspective-on-game-design)

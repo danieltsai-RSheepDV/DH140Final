@@ -1,2 +1,5 @@
 requests
 matplotlibnltk
+networkx
+tqdm
+nltk
