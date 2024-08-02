@@ -1,5 +1,5 @@
 requests
-matplotlibnltk
+matplotlib
 networkx
 tqdm
 nltk
