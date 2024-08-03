@@ -1,3 +1,5 @@
 data/*
 .ipynb_checkpoints/*
 !data/INSERT_DATA_HERE.txt
+/.quarto/
+/_site/
