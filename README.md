@@ -1,7 +1,8 @@
 # Digital Humanities 140:  - Summer 2024
 
 The goal of this project is to find the trends in triple A and indie games over time to see how sentiment has shifted with the rise of indie creators and growing disdain toward triple A companies. Some of the aspects I'll be focusing on is the change in ratings over time, the changes in reviewer sentiment over time, and changes in player count.
-The python notebook file for this project is [SteamAnalysis.ipynb](https://github.com/danieltsai-RSheepDV/DH140Final/blob/master/SteamAnalysis.ipynb) in the root directory on the master branch.
+
+**The python notebook file for this project is [SteamAnalysis.ipynb](https://github.com/danieltsai-RSheepDV/DH140Final/blob/master/SteamAnalysis.ipynb) in the root directory on the master branch.**
 
 ## Inspirations
 
