@@ -786,6 +786,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Surprisingly the mean cost of games hasn’t fluctuated much over time. The game prior to 2006 seem to fluctuate a lot more in pricing, but that is due to the fact that theres not much data for that period of time. Overall though this data doesn’t make much sense considering the trends in game pricing as reported by major studios. The most apparent trend though is that indie games typically cost less than triple A games, an unsurprisingly fact.</p>
 <p>A major factor that may be skewing this data is the fact that along with the rising prices of triple A games, there has also been a rise in the number of free to play games. These games make a majority of their money from in game purchases, as such their profits won’t really be revealed in this graph. To account for this, lets graph the data again, this time removing all free games.</p>
 <div id="af3d5734-2b55-47c1-9f25-7baffaabe925" class="cell" data-execution_count="6">
+<details class="code-fold">
+<summary>Show the code</summary>
 <div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate date range of the data</span></span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>dataset_months <span class="op">=</span> dataset.drop_duplicates(<span class="st">"name"</span>).release_date.dt.to_period(<span class="st">'M'</span>)</span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>date_range <span class="op">=</span> pd.period_range(start<span class="op">=</span>dataset_months.<span class="bu">min</span>(), end<span class="op">=</span>dataset_months.<span class="bu">max</span>(), freq<span class="op">=</span><span class="st">'M'</span>)</span>
@@ -812,6 +814,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb9-24"><a href="#cb9-24" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">"Average Price of Indie vs Non-Indie games released per month, free games removed"</span>)</span>
 <span id="cb9-25"><a href="#cb9-25" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">"Release Date"</span>)</span>
 <span id="cb9-26"><a href="#cb9-26" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">"Dollars"</span>)<span class="op">;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
