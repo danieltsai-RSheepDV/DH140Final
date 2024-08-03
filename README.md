@@ -4,6 +4,8 @@ The goal of this project is to find the trends in triple A and indie games over 
 
 **The python notebook file for this project is [SteamAnalysis.ipynb](https://github.com/danieltsai-RSheepDV/DH140Final/blob/master/SteamAnalysis.ipynb) in the root directory on the master branch.**
 
+**[Blog Site Link](https://danieltsai-rsheepdv.github.io/DH140Final/)**
+
 ## Inspirations
 
 The article [The Era of the Indie Game](https://www.konvoy.vc/content/the-era-of-the-indie-game) was interesting to me as it showed concrete data that indie games were not only becoming more popular, but also starting to match triple A games in terms of quality, rating, and sales.
