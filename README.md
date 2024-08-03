@@ -1,6 +1,7 @@
 # Digital Humanities 140:  - Summer 2024
 
 The goal of this project is to find the trends in triple A and indie games over time to see how sentiment has shifted with the rise of indie creators and growing disdain toward triple A companies. Some of the aspects I'll be focusing on is the change in ratings over time, the changes in reviewer sentiment over time, and changes in player count.
+The python notebook file for this project is [SteamAnalysis.ipynb](https://github.com/danieltsai-RSheepDV/DH140Final/blob/master/SteamAnalysis.ipynb) in the root directory on the master branch.
 
 ## Inspirations
 
@@ -24,3 +25,4 @@ The following articles were used to determine possible research topics.
 | Name | Description | Link |
 |------|-------------|------|
 |Steam Games Dataset|"This dataset has been created with this code (MIT) and use the API provided by Steam, the largest gaming platform on PC. Data is also collected from Steam Spy." - MARTIN BUSTOS|https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data|
+|100 Million+ Steam Reviews|"100,000,000+ steam reviews collected from the steam User Reviews - Get List API" - KieranPO'C|https://www.kaggle.com/datasets/kieranpoc/steam-reviews|
